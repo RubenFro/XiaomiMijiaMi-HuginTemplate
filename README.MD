@@ -1,7 +1,8 @@
 This is a template file for Hugin to stitch images captured with Xiaomi Mijia Mi Sphere. 
 
 Changelog: 
-
+	
+	2017.11.06 - Added template-XiaomiMijiaMi-Horizon.pto - This template has a leveled horizon and a sharp stitch line (unfortunately it's not perfect so the overall quality can be different image by image)
 	2017.09.01 - Fixed and added new control points (now +255)
 			   - One bright artifact in the upper part of the image should be fixed no
 			   - Fixed image output resolution
